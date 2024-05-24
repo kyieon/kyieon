@@ -1,9 +1,5 @@
-## Hi there 👋
+## 이영재 (Lee, Young Jae) 👋
 
-<!--
-**kyieon/kyieon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://kyieon.github.io#gh-light-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://kyieon.github.io#gh-dark-mode-only)
+
+[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:dldudwo87@gmail.com#gh-dark-mode-only)
+[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:dldudwo87@gmail.com#gh-light-mode-only)
+
+<br />
+
+[website]: https://kyieon.github.io
+[github]: https://github.com/kyieon
+[linkedin]: [http://www.linkedin.com/in/youngjae-lee-b95a73234]
+[githubio]: https://kyieon.github.io
