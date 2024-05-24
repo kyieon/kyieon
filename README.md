@@ -1,12 +1,18 @@
 ## 이영재 (Lee, Young Jae) 👋
 
 ### Backend Engineer
-
+- Java (EJB, Spring)
+- Python (FastAPI, Pandas)
+- JavaScript (Node, Bun)
+- Golang
 
 
 ### Interest
-- 
-
+- AWS, GCP
+- K8S
+- Consul, Envoy
+- Lean Methodology
+- Flow-based programming (Airflow)
 
 
 ### Connect with me:
