@@ -12,15 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://kyieon.github.io#gh-light-mode-only)
-[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://kyieon.github.io#gh-dark-mode-only)
 
-[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:dldudwo87@gmail.com#gh-dark-mode-only)
-[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:dldudwo87@gmail.com#gh-light-mode-only)
+<div>
 
-<br />
-
-[website]: https://kyieon.github.io
-[github]: https://github.com/kyieon
-[linkedin]: [http://www.linkedin.com/in/youngjae-lee-b95a73234]
-[githubio]: https://kyieon.github.io
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngjae-lee-b95a73234/)](https://www.linkedin.com/in/youngjae-lee-b95a73234/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dldudwo87@gmail.com)](mailto:dldudwo87@gmail.com)
+</div>
