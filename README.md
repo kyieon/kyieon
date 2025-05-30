@@ -5,7 +5,6 @@
 -   **Java**
 -   Python
 -   JavaScript
--   Go
 
 ### Interest
 
