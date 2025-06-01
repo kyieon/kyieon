@@ -10,8 +10,8 @@
 
 -   AWS, GCP
 -   K8S
--   Service Mesh (Consul, Envoy)
--   Lean Methodology
+-   MSA, Service Mesh (Consul, Envoy)
+-   Lean Methodology (린 방법론)
 -   Flow-based programming (NiFi, Airflow)
 
 ### Connect with me:
